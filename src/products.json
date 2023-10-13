@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":0.5,
+        "image": "https://st1.myideasoft.com/idea/gb/84/myassets/products/750/07124246-d2f705-1650x1650-removebg-preview.png?revision=1678437386"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":6,
+        "image": "https://images.migrosone.com/sanalmarket/product/08011001/8011001_yan-7eca8d-1650x1650.jpg"
+    },
+    {
+        "id":3,
+        "title":"Bisküvi",
+        "price":3,
+        "image": "https://images.migrosone.com/sanalmarket/product/7019931/7019931-041230-1650x1650.jpg"
+    },
+    {
+        "id":4,
+        "title":"Çikolata",
+        "price":5,
+        "image": "https://images.migrosone.com/sanalmarket/product/07034563/7034563-3fa3cb-1650x1650.jpg"
+    },
+     {
+        "id":5,
+        "title":"Motor",
+        "price":10000,
+        "image": "https://cdn03.ciceksepeti.com/cicek/kcm45176275-1/XL/yamaha-yzf-r6-model-oyuncak-motor-kcm45176275-1-1c070b43a6884f849ff1f4323a87e81d.jpg"
+    },
+    {
+        "id":6,
+        "title":"Araba",
+        "price":30000,
+        "image": "https://kiralikarabalar.com.tr/uploads/ajax/i20-1-5DBC9EE043E8A.jpg"
+
+    },
+     {
+        "id":7,
+        "title":"Paten",
+        "price":100,
+        "image": "https://cdn.cimri.io/image/1200x1200/flyingeaglepatenfiyatlar_162257520.jpg"
+
+    },
+     {
+        "id":8,
+        "title":"Scooter",
+        "price":500,
+        "image": "https://cdn03.ciceksepeti.com/cicek/kc2488283-1/XL/xiaomi-mijia-m365-electric-scooter-pro-elektrikli-scooter-pro-kc2488283-1-655de989b6d54c46b1a6e6768c025b51.jpg"
+
+    }
+      
+
+
+    
+
+]
